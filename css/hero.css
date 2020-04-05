@@ -12,8 +12,7 @@ header{
 }
 h1, h2{
     font-family: 'Do Hyeon', sans-serif;
-   
-}
+   }
 header h1 {
     color: #C0392B;
     font-size: 90px ; 
@@ -25,7 +24,6 @@ header img {
     border-bottom: 35px solid #F2F3F4;
 
 }
-
 main{
     max-width: 800px;
     margin: 0 10px 10px 120px;
