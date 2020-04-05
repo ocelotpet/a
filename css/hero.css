@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+header{
+    background-color: #F4D03F;
+   text-align: center;
+   padding-top: 35px;
+
+}
+h1, h2{
+    font-family: 'Do Hyeon', sans-serif;
+}
+header h1 {
+    color: #C0392B;
+    font-size: 90px ;
+    
+    padding-bottom: 15px;
+}
+header img {
+    border: 20px solid #F2F3F4 ;
+    border-bottom: 35px solid #F2F3F4;
+}
